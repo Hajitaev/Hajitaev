@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hajitaev
-- 👀 I’m interested in everything
 - 🌱 I’m currently studying Chemical Engineering at the University of Edinburgh
 - 💞️ I’m looking to collaborate on any projects that will help me improve my coding skills
-- 📫 How to reach me ...
+Can reach me on my linkedin: Iznaur Khatataev
 
 <!---
 Hajitaev/Hajitaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
